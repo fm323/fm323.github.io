@@ -9,7 +9,7 @@ name: 风满长川
 description: blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/fm323/fm323.github.io/f12985059731ca92a23902e87282bec752cddeee/images/1.png
+avatar: https://raw.githubusercontent.com/fm323/fm323.github.io/81fce046a80a677e813b472d065037bdde410e37/images/tx.png
 
 #
 # Flags below are optional
@@ -41,8 +41,8 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://blog.wleetech.com
-mainurl: https://www.wleetech.com
+url: https://fm323.github.io/
+mainurl: https://fm323.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
